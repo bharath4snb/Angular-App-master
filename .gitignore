@@ -1,1 +1,12 @@
-boby.txt
+.DS_Store
+node_modules
+dist
+.tmp
+*.txt
+.sass-cache
+bower_components
+*.js_
+*.js.deps
+*.js.map
+.idea
+
